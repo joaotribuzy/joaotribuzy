@@ -13,7 +13,7 @@ I'm João and I work as iOS Engineer. 💻📲 I also love music and play bass g
 [<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23593d88.svg?&style=for-the-badge&logo=firebase&logoColor=white&color=yellow"/>](https://firebase.google.com)
 [<img alt="Docker" src="https://img.shields.io/badge/docker%20-%23E34F26.svg?&style=for-the-badge&logo=docker&logoColor=white&color=blue"/>](https://www.docker.com) 
 [<img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%23593d88.svg?&style=for-the-badge&logo=jenkins&logoColor=white&color=red"/>](https://www.jenkins.io)
-[<img alt="Fastlane" src="https://img.shields.io/badge/fastlane%20-%23593d88.svg?&style=for-the-badge&logo=fastlane&logoColor=white"/>](https://realm.io)
+[<img alt="Fastlane" src="https://img.shields.io/badge/fastlane%20-%23593d88.svg?&style=for-the-badge&logo=fastlane&logoColor=white"/>](https://fastlane.tools)
 [<img alt="C" src="https://img.shields.io/badge/c%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white"/>](https://devdocs.io/c/)
 [<img alt="Java" src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=white&color=red"/>](https://docs.oracle.com/javase/7/docs/technotes/guides/language/)
 [<img alt="Python" src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org)
