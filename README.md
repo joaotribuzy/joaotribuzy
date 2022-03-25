@@ -19,3 +19,10 @@ I'm João and I work as iOS Engineer. 💻📲 I also love music and play bass g
 [<img alt="Python" src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org)
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
 [<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+
+## 🦑 GitHub Stats
+<div align="left">
+  <a href="https://github.com/tribuzera">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tribuzera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tribuzera&layout=compact&langs_count=7&theme=dark"/>
+</div>
